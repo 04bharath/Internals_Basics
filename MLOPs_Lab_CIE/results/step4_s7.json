@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "biosynth-compound-yield-mg-predictor",
+  "alias_name": "champion",
+  "champion_version": 1,
+  "challenger_version": 2,
+  "action": "kept"
+}

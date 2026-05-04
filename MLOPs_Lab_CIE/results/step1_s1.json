@@ -1,0 +1,22 @@
+{
+  "experiment_name": "biosynth-compound-yield-mg",
+  "models": [
+    {
+      "name": "LinearRegression",
+      "mae": 22.9079,
+      "rmse": 26.0113,
+      "r2": 0.8665,
+      "mape": 7.2894
+    },
+    {
+      "name": "Ridge",
+      "mae": 33.3206,
+      "rmse": 33.6668,
+      "r2": 0.7763,
+      "mape": 10.1693
+    }
+  ],
+  "best_model": "LinearRegression",
+  "best_metric_name": "mae",
+  "best_metric_value": 22.9079
+}
